@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrlous2789
 
-### My projects
+# My projects
 
 - https://github.com/mrlous2789/COMP-3000-Nick_Stafford
   -
