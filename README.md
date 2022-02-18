@@ -5,7 +5,7 @@
 - https://github.com/mrlous2789/COMP-3000-Nick_Stafford
   -
   - My final year university project
-  - Simple Real time strategy game 
+  - Real time strategy game 
   - Coded in C++ with OpenGL
 - https://github.com/mrlous2789/WorldGenerator
   -
